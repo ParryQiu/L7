@@ -48,10 +48,10 @@
     "@babel/runtime": "^7.7.7",
     "inversify": "^5.0.1",
     "reflect-metadata": "^0.1.13",
-    "three": "0.115.0"
+    "three": "0.137.0"
   },
   "devDependencies": {
-    "rollup": "^2.3.3",
+    "rollup": "^4.55.1",
     "rollup-plugin-less": "^1.1.2"
   },
   "gitHead": "edc5dca4af25650507d1b3b3a649bf6c0cb6089d",
